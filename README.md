@@ -1,1 +1,1 @@
-# final_project_s.m_front-end_
+# Salome-Meskhishvili-finaluri-proeqti
